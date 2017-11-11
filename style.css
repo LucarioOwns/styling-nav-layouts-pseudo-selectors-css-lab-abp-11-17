@@ -70,6 +70,6 @@ nav a:hover {
   color: #0056b3;
 }
 
-#example-id a::hover {
+#example-id a:hover {
   text-decoration: underline;
 }
